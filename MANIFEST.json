@@ -4,8 +4,8 @@
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 78,
-      "sha256": "f880c0114b3013645774c42feeef8b02a0ca943f1b7993d0f9461b617796cfac"
+      "bytes": 100,
+      "sha256": "0409d2e7fc56f1258a154838a77a3264531fae6df2d09cff13e391d75a6ae2b8"
     },
     {
       "path": "LICENSE",
@@ -14,13 +14,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4578,
-      "sha256": "9d49fc79e85ce1896b3b1923b759bbd329513f37f1d1ab9f4c10dc4373d93e0d"
+      "bytes": 6066,
+      "sha256": "d743ccfc5bf14a47eb48e81b3040691399fc00ff6528089289e13fcdfac8f9d5"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
       "bytes": 686,
       "sha256": "745aea6c7c409c0663c563d152a5933f5775beb8a7027cd4c3ab7078ba74f0bf"
+    },
+    {
+      "path": "crossing_protocol.json",
+      "bytes": 5130,
+      "sha256": "83b304dac058d5af1bbbf1a3063a18fadef018a25828557b94de993a49200f89"
     },
     {
       "path": "docs/HLE_Malice_Matrix_R11_Working_Note_v1.docx",
@@ -36,6 +41,31 @@
       "path": "docs/post_draft.md",
       "bytes": 307,
       "sha256": "5bf018941578e1e6f09076b4e91d578a7290a4aff13354cc6235c86de6b9e68b"
+    },
+    {
+      "path": "docs/retained_crossing.md",
+      "bytes": 9016,
+      "sha256": "ff0fde197a21daacd071ebcd3f236242f7c39e397bc114e4dc7f58e548bc1eaa"
+    },
+    {
+      "path": "experiments/__init__.py",
+      "bytes": 83,
+      "sha256": "4b87a24cad781e5758f3f976e431ca45135188bcfc1084e9403980fcc7596d60"
+    },
+    {
+      "path": "experiments/crossing.py",
+      "bytes": 14153,
+      "sha256": "3d67220b9eb73281cf7316182f86663982eb6afd793d38c07d24ae1463e7c2fb"
+    },
+    {
+      "path": "experiments/operators.py",
+      "bytes": 5926,
+      "sha256": "62593a6368027ef27a879582aa88923fa1800c4a168361212eb9ba694646ae1e"
+    },
+    {
+      "path": "experiments/runtime.py",
+      "bytes": 12415,
+      "sha256": "c172846db33e3c1c5abbab92f9eddfb5a7043412f5ec1885330a0410576e04ad"
     },
     {
       "path": "probes/__init__.py",
@@ -66,6 +96,11 @@
       "path": "protocol.json",
       "bytes": 3935,
       "sha256": "fb22214e0e40a3b9e96c73205666cdf2a3b0129f5bb6976a8ebb882833a3fe3b"
+    },
+    {
+      "path": "results/crossing.json.gz",
+      "bytes": 8688,
+      "sha256": "a5900387efe04780992a31da8d68c98fa1eda510a4ffa791fbb7d7772deb2743"
     },
     {
       "path": "results/panel_execution.log",
@@ -103,6 +138,11 @@
       "sha256": "e69eabae5b4f0b8bb8b0954518d7821d28e4cf2766fb527f069c828a8e4289ac"
     },
     {
+      "path": "run_crossing.py",
+      "bytes": 1007,
+      "sha256": "c8cffe73bea189302fcf42b0dd9c52ee8a99b2889ed8d5f2eb080e9ccd2c6a8d"
+    },
+    {
       "path": "run_studies.py",
       "bytes": 1390,
       "sha256": "afce60e76dcea25acfdc905b8f889f70db5506716e27af0acc6e0e94c8e09fee"
@@ -131,6 +171,11 @@
       "path": "sources/relation_labels.json",
       "bytes": 39859,
       "sha256": "edd8ddbecf83c810ffa5599481035fe8b1fa3cd3ad22e1e86ceecfaeb0ead80f"
+    },
+    {
+      "path": "tests/test_crossing.py",
+      "bytes": 9258,
+      "sha256": "3b656d68352b7dddcca6463afc151dde92890fc1d513a85063b0767394ae0456"
     },
     {
       "path": "tests/test_findings.py",
