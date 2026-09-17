@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+replayed_results/
+results/r10.json
+results/r11.json
