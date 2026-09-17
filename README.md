@@ -1,4 +1,34 @@
-# Malice Matrix studies in HLE R11
+# HLE: content, retained capacity, and the Malice Matrix
+
+## Current experiment: retained capacity after help ends
+
+The current task is executable: keep content distinct from the activity used to
+produce it, then test retained complementary capacity and a consequential return.
+The function graph has no primitive horizontal connection. A route alone cannot
+satisfy the test.
+
+In a small SLI learning task, retaining both alternative-search and
+partner-constraint rules gives **12/12 successful held-out returns** after help
+ends. Help without retention, either rule alone, and no instruction each give
+3/12. Correct plans without action fail the return criterion; a quiet period
+remains unassessed. These elected task operators are narrow stand-ins for Ne
+and Fi, with an actual paid inspection/transfer as the practical return.
+
+Across all 16 receiver types, 32 paired checks also preserve the aspect and
+reception cost of identical content after different sender activities. This
+separates content from R11's fixed activity targets. Full individuation and Shell
+clearance remain unassessed; this is a finite procedural-learning prototype.
+
+```bash
+python run_crossing.py
+python -m unittest discover -s tests -p test_crossing.py -v
+```
+
+Read the [current report](docs/retained_crossing.md),
+[protocol](crossing_protocol.json), and [complete results](results/crossing.json.gz).
+No original historical study scripts are needed for this run.
+
+## Earlier Malice Matrix policy and attention experiment
 
 A completed policy and attention experiment on HLE R11, with R10 as a controlled baseline. The repository contains the executable study, pinned engines, results, and a report. The findings concern the declared simulation policies and engine costs.
 
@@ -25,7 +55,7 @@ R10 and R11 agree on the four policies' physical outcomes under ample resources,
 
 The [working note](docs/HLE_Malice_Matrix_R11_Working_Note_v1.md) gives the methods, detailed costs and interpretation limits. A [Word copy](docs/HLE_Malice_Matrix_R11_Working_Note_v1.docx) is included. [protocol.json](protocol.json) specifies the experiment, and [results](results/) contains the complete result data as compressed JSON, including stage costs and processing states.
 
-## Run the study
+## Re-run the policy and attention study
 
 Python 3.12 or later, standard library only, from the repository root:
 
